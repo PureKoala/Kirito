@@ -1,4 +1,4 @@
-double atoi(char * st)
+int atoi(char * st)
 {
     int i, len;
     double result = 0;
